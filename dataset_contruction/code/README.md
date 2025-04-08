@@ -8,9 +8,9 @@ This folder contains Jupyter notebooks used in the construction and processing o
 
 | File Name            | Description                                                   |
 |---------------------|---------------------------------------------------------------|
-| `1_drugcombdb.ipynb` | Notebook for loading and exploring the DrugCombDB dataset.     |
-| `2_drugcomb.ipynb`   | Preprocessing and cleaning of drug combination data.           |
-| `README.md`          | Overview of this folder.                                       |
+| `1_drugcombdb.ipynb` | Notebook for loading and exploring the DrugCombDB dataset.   |
+| `2_drugcomb.ipynb`   | Notebook for loading and exploring the DrugComb dataset      |
+| `README.md`          | Overview of this folder.                                     |
 
 ---
 
