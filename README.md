@@ -1,4 +1,3 @@
-(el final ir quitando carpeta de código y datos)
 
 # TFM - Master's Thesis Project Sofía Ferrández Benito
 
