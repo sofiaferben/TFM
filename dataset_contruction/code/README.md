@@ -22,4 +22,4 @@ This folder contains Jupyter notebooks used in the construction and processing o
 
 ##  Notes
 - All notebooks are intended to be run in sequence.
-- Output files and intermediate datasets are saved to `/data/` directory 
+- Output files and intermediate datasets are saved to `../data/raw` directory 
