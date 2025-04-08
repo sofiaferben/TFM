@@ -1,1 +1,25 @@
+## /code - Dataset Construction Scripts
 
+This folder contains Jupyter notebooks used in the construction and processing of the dataset for the Master's Thesis project.Each script is numbered to reflect the intended order of execution, ensuring a clear and reproducible data processing pipeline.
+
+---
+
+##  Contents
+
+| File Name            | Description                                                   |
+|---------------------|---------------------------------------------------------------|
+| `1_drugcombdb.ipynb` | Notebook for loading and exploring the DrugCombDB dataset.     |
+| `2_drugcomb.ipynb`   | Preprocessing and cleaning of drug combination data.           |
+| `README.md`          | Overview of this folder.                                       |
+
+---
+
+##  Workflow Summary
+
+1. **Load & Explore** raw data from each of the databases
+2. **Clean & Transform** the data for modeling.
+3. **Export** clean data to `../data/clean/` for downstream use.
+
+##  Notes
+- All notebooks are intended to be run in sequence.
+- Output files and intermediate datasets are saved to `/data/` directory 
