@@ -1,0 +1,152 @@
+name,idSample,tissue,sex,age,disease,idCellosaurus,origin
+K-562,1,blood,F,53.0,Chronic myelogenous leukemia,CVCL_0004,
+MOLT-4,2,blood,M,19.0,Adult T acute lymphoblastic leukemia,CVCL_0013,
+RPMI-8226,3,blood,M,61.0,Plasma cell myeloma,CVCL_0014,
+U-251MG,4,brain,M,75.0,Astrocytoma,CVCL_0021,
+A-549,5,lung,M,58.0,Lung adenocarcinoma,CVCL_0023,
+MCF-7,6,breast,F,69.0,Invasive ductal carcinoma,CVCL_0031,Pleural effusion
+PC-3,7,prostate,M,62.0,Prostate carcinoma,CVCL_0035,Bone
+SK-MEL-30,8,skin,M,67.0,Cutaneous melanoma,CVCL_0039,
+MDA-MB-231,9,breast,F,51.0,Breast adenocarcinoma,CVCL_0062,Pleural effusion
+SK-MEL-2,10,skin,M,60.0,Melanoma,CVCL_0069,Thigh skin
+DU145,11,prostate,M,69.0,Prostate carcinoma,CVCL_0105,Brain
+A-375,12,skin,F,54.0,Amelanotic melanoma,CVCL_0132,
+A2780,13,ovary,F,,Ovarian endometrioid adenocarcinoma,CVCL_0134,
+Caov-3,14,ovary,F,54.0,High grade ovarian serous adenocarcinoma,CVCL_0201,
+CCRF-CEM,15,blood,F,3.0,Childhood T acute lymphoblastic leukemia,CVCL_0207,
+COLO 205,16,colorectal,M,70.0,Colon adenocarcinoma,CVCL_0218,Ascites
+COLO 320DM,17,colorectal,F,55.0,Colon adenocarcinoma,CVCL_0219,
+Caki-1,18,kidney,M,49.0,Clear cell renal cell carcinoma ,CVCL_0234,Skin
+DLD-1,19,colorectal,M,,Colon adenocarcinoma,CVCL_0248,
+HCT 116,20,colorectal,M,48.0,Colon carcinoma,CVCL_0291,
+HCT 15,21,colorectal,M,,Colon adenocarcinoma,CVCL_0292,
+HT-144,22,skin,M,29.0,Melanoma,CVCL_0318,Subcutaneous
+HT-29,23,colorectal,F,44.0,Rectosigmoid adenocarcinoma,CVCL_0320,
+Hs 578T,24,breast,F,74.0,Invasive ductal carcinoma,CVCL_0332,
+LNCaP,25,prostate,M,50.0,Prostate carcinoma,CVCL_0395,Left supraclavicular lymph node
+LoVo,26,colorectal,M,56.0,Colon adenocarcinoma,CVCL_0399,Left supraclavicular lymph node
+MDA-MB-435,27,skin,M,33.0,Amelanotic melanoma,CVCL_0417,Subcutaneous; right buttock
+MDA-MB-468,28,breast,F,51.0,Breast adenocarcinoma,CVCL_0419,Pleural effusion
+NCI-H460,29,lung,M,,Large cell lung carcinoma,CVCL_0459,
+OVCAR-3,30,ovary,F,60.0,High grade ovarian serous adenocarcinoma,CVCL_0465,Ascites
+PA-1,31,ovary,F,12.0,Ovarian mixed germ cell tumor,CVCL_0479,Ascites
+RKO,32,colorectal,,,Colon carcinoma,CVCL_0504,
+SK-MEL-28,33,skin,M,51.0,Cutaneous melanoma,CVCL_0526,
+SK-MEL-5,34,skin,F,24.0,Cutaneous melanoma,CVCL_0527,Axillary lymph node
+SK-OV-3,35,ovary,F,64.0,Ovarian serous cystadenocarcinoma,CVCL_0532,Ascites
+SNB-19,36,brain,M,75.0,Astrocytoma,CVCL_0535,
+SW620,37,colorectal,M,51.0,Colon adenocarcinoma,CVCL_0547,Lymph node
+T-47D,38,breast,F,54.0,"Invasive ductal carcinoma, not otherwise specified",CVCL_0553,Pleural effusion
+ZR-75-1,39,breast,F,63.0,"Invasive ductal carcinoma, not otherwise specified",CVCL_0588,Ascites
+MDA-MB-436,40,breast,F,43.0,"Invasive ductal carcinoma, not otherwise specified",CVCL_0623,Pleural effusion
+SK-MES-1,41,lung,M,65.0,Squamous cell lung carcinoma,CVCL_0630,Pleural effusion
+786-O,42,kidney,M,58.0,Renal cell carcinoma,CVCL_1051,
+A-427,43,lung,M,52.0,Lung adenocarcinoma,CVCL_1055,
+A-498,44,kidney,M,52.0,Renal cell carcinoma,CVCL_1056,
+A2058,45,skin,M,43.0,Amelanotic melanoma,CVCL_1059,Lymph node
+ACHN,46,kidney,M,22.0,Papillary renal cell carcinoma,CVCL_1067,Pleural effusion
+BT-549,47,breast,F,72.0,Invasive ductal carcinoma,CVCL_1092,
+EKVX,48,lung,M,,Lung adenocarcinoma,CVCL_1195,
+HCC2998,49,colorectal,,,Colon adenocarcinoma,CVCL_1266,
+HOP-62,50,lung,F,60.0,Lung adenocarcinoma,CVCL_1285,
+HOP-92,51,lung,M,62.0,Non-small cell lung carcinoma,CVCL_1286,
+IGROV-1,52,ovary,F,47.0,Ovarian endometrioid adenocarcinoma,CVCL_1304,
+KM12,53,colorectal,,,Colon carcinoma,CVCL_1331,
+LOX-IMVI,54,skin,M,58.0,Amelanotic melanoma,CVCL_1381,Axillary lymph node
+M14,55,skin,M,33.0,Amelanotic melanoma,CVCL_1395,Subcutaneous; right buttock
+MSTO-211H,56,mesothelioma,M,62.0,Pleural biphasic mesothelioma,CVCL_1430,
+Malme-3M,57,skin,M,43.0,Melanoma,CVCL_1438,Lung
+NCI-ADR-RES,58,ovary,F,64.0,High grade ovarian serous adenocarcinoma,CVCL_1452,
+NCI-H1650,59,lung,M,,Minimally invasive lung adenocarcinoma,CVCL_1483,Pleural effusion
+NCI-H2122,60,lung,F,46.0,Lung adenocarcinoma,CVCL_1531,Pleural effusion
+NCI-H23,61,lung,M,51.0,Lung adenocarcinoma,CVCL_1547,
+NCI-H322M,62,lung,M,52.0,Minimally invasive lung adenocarcinoma,CVCL_1557,
+NCI-H520,63,lung,M,,Squamous cell lung carcinoma,CVCL_1566,
+NCI-H522,64,lung,M,58.0,Lung adenocarcinoma ,CVCL_1567,
+OCUB-M,65,breast,F,53.0,Breast carcinoma,CVCL_1621,Pleural effusion
+OVCAR-4,66,ovary,F,42.0,High grade ovarian serous adenocarcinoma,CVCL_1627,Ascites
+OVCAR-5,67,ovary,F,67.0,High grade ovarian serous adenocarcinoma,CVCL_1628,Ascites
+OVCAR-8,68,ovary,F,64.0,High grade ovarian serous adenocarcinoma,CVCL_1629,
+RPMI-7951,69,skin,F,18.0,Melanoma,CVCL_1666,Lymph node
+RXF 393L,70,kidney,M,54.0,Renal cell carcinoma,CVCL_1673,
+SF268,71,brain,F,24.0,Astrocytoma,CVCL_1689,
+SF295,72,brain,F,67.0,Glioblastoma,CVCL_1690,
+SF539,73,brain,F,34.0,Gliosarcoma,CVCL_1691,
+SN12C,74,kidney,M,,Renal cell carcinoma,CVCL_1705,
+SNB-75,75,brain,F,,Glioblastoma,CVCL_1706,
+SR,76,blood,M,11.0,Anaplastic large cell lymphoma,CVCL_1711,
+SW837,77,colorectal,M,53.0,Rectal adenocarcinoma,CVCL_1729,
+TK-10,78,kidney,M,43.0,Clear cell renal cell carcinoma,CVCL_1773,
+UACC-257,79,skin,,,Melanoma,CVCL_1779,
+UACC-62,80,skin,,,Melanoma,CVCL_1780,
+EFM-192B,81,breast,F,46.0,Breast carcinoma,CVCL_1813,Pleural effusion
+UO-31,82,kidney,F,,Renal cell carcinoma,CVCL_1911,
+KPL-1,83,breast,F,69.0,"Invasive ductal carcinoma, not otherwise specified",CVCL_2094,Pleural effusion
+VCaP,84,prostate,M,59.0,Prostate carcinoma,CVCL_2235,Vertebra
+ES-2,85,ovary,F,47.0,Ovarian clear cell adenocarcinoma,CVCL_3509,
+OV-90,86,ovary,F,64.0,Ovarian adenocarcinoma,CVCL_3768,Ascites
+HL-60(TB),87,blood,F,35.0,Adult acute myeloid leukemia,CVCL_A794,
+UWB1.289+BRCA1,88,ovary,F,56.0,Ovarian carcinoma,CVCL_B078,
+UWB1.289,89,ovary,F,56.0,Ovarian carcinoma,CVCL_B079,
+NCI-H226,90,mesothelioma,M,,Pleural epithelioid mesothelioma,NCI-H226,
+BT-20,94,breast,F,74.0,"Invasive ductal carcinoma, not otherwise specified",CVCL_0178,
+C32,96,skin,M,53.0,Amelanotic melanoma,CVCL_1097,
+HCC38,116,breast,F,50.0,Ductal breast carcinoma,CVCL_1267,
+MIA PaCa-2,156,pancreas,M,65.0,Pancreatic ductal adenocarcinoma,CVCL_0428,
+PANC-1,157,pancreas,M,56.0,Pancreatic ductal adenocarcinoma,CVCL_0480,
+PL45,158,pancreas,M,81.0,Pancreatic ductal adenocarcinoma,CVCL_3567,
+SU.86.86,159,pancreas,F,57.0,Pancreatic adenocarcinoma,CVCL_3881,Liver
+KBM-7,160,blood,M,40.0,"Chronic myelogenous leukemia, BCR-ABL1 positive",CVCL_A426,
+WM3526,161,skin,,,Melanoma,,
+COLO 829,162,skin,M,45.0,Cutaneous melanoma,CVCL_1137,
+A101D,163,skin,M,56.0,Melanoma,CVCL_1057,
+G-361,164,skin,M,31.0,Melanoma,CVCL_1220,
+WM1716,165,skin,,,Melanoma,CVCL_AP82,
+WM115,166,skin,F,55.0,Melanoma,CVCL_0040,Right anterior leg
+RVH-421,167,skin,M,28.0,Melanoma,CVCL_1672,
+IST-MEL1,168,skin,M,,Melanoma,CVCL_1308,
+451Lu,169,skin,M,22.0,Cutaneous melanoma,CVCL_6357,Lymph node
+Mel Ho,170,skin,F,,Melanoma,CVCL_1402,
+COLO 800,171,skin,M,14.0,Cutaneous melanoma,CVCL_1135,Subcutaneous
+WM1745,172,skin,,,Melanoma,,
+IPC-298,173,skin,F,64.0,Cutaneous melanoma,CVCL_1307,
+MZ-MEL-2,174,skin,,,Melanoma,CVCL_1435,
+501-mel,175,skin,F,,Melanoma,CVCL_4633,Not specified
+WM3619,176,skin,,,Melanoma,CVCL_0B75,Not specified
+LB2518-MEL,177,skin,F,,Melanoma,CVCL_1366,
+MeWo,178,skin,M,78.0,Lymph node,CVCL_0445,
+COLO 792,179,skin,M,62.0,Melanoma,CVCL_1134,Brain
+CBRC014,180,skin,,,Melanoma,,
+CBRC017,181,skin,,,Melanoma,,
+CBRC016,182,skin,,,Melanoma,,
+CBRC013,183,skin,,,Melanoma,,
+CBRC008,184,skin,,,Melanoma,,
+CBRC034,185,skin,,,Melanoma,,
+T98G,186,brain,M,61.0,Glioblastoma,CVCL_0556,
+CAL-85-1,187,breast,F,35.0,Breast carcinoma,CVCL_1114,
+CAL-148,188,breast,F,58.0,Breast carcinoma,CVCL_1106,Pleural effusion
+CAL51,189,breast,F,45.0,Breast carcinoma,CVCL_1110,Pleural effusion
+DU4475,190,breast,F,62.0,Breast carcinoma,CVCL_1183,Skin nodule
+HCC1599,191,breast,F,44.0,Ductal breast carcinoma,CVCL_1256,
+MCF-10A,192,breast,F,36.0,,CVCL_0598,
+MFM-223,193,breast,F,45.0,Breast carcinoma,CVCL_1408,Pleural effusion
+HEK293,194,kidney,F,,,CVCL_0045,
+HeLa,195,cervix,F,30.0,,CVCL_0030,
+Hep-G2,196,liver,M,15.0,,CVCL_0027,
+22Rv1,197,prostate,M,,Prostate carcinoma,CVCL_1045,
+AU565,198,breast,F,43.0,Breast adenocarcinoma,CVCL_1074,Pleural effusion
+LNCaP C4-2,199,prostate,M,50.0,Prostate carcinoma,CVCL_4782,Left supraclavicular lymph node
+CAL-33,200,upper digestive tract,M,69.0,Tongue squamous cell carcinoma,CVCL_1108,
+CCD-1112Sk,201,skin,M,,,CVCL_2769,
+CCD-18Co,202,colorectal,F,,,CVCL_2379,
+CFPAC-1,203,pancreas,M,26.0,Pancreatic ductal adenocarcinoma,CVCL_1119,Liver
+HT-55,204,colorectal,,,Colon carcinoma,CVCL_1294,
+epiHUVEC,205,NULL,F,,,CVCL_9S75,
+KYSE-150,206,upper digestive tract,F,49.0,Esophageal squamous cell carcinoma,CVCL_1348,
+MDA-MB-157,207,breast,F,44.0,Breast carcinoma,CVCL_0618,Pleural effusion
+MDA-MB-415,208,breast,F,38.0,Breast carcinoma,CVCL_0621,Pleural effusion
+MDA-MB-453,209,breast,F,48.0,Breast carcinoma,CVCL_0418,Pleural effusion
+NCI-H1299,210,lung,M,43.0,Large cell lung carcinoma,CVCL_0060,Lymph node
+SW48,211,colorectal,F,83.0,Colon adenocarcinoma,CVCL_1724,
+U2OS,212,bone,F,15.0,Osteosarcoma,CVCL_0042,
+U-87MG Uppsala,213,brain,F,44.0,Glioblastoma,CVCL_GP63,
