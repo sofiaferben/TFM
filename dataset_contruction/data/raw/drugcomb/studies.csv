@@ -1,8 +1,12 @@
 id,sname,pubmed_id,title,journal,year,doi
-1,ONEIL,26983881.0,An Unbiased Oncology Compound Screen to Identify Novel Combination Strategies,Mol Cancer Ther,2016.0,"10.1158/1535-7163.MCT-15-0843"
-2,CLOUD,28530711.0,A combinatorial screen of the CLOUD uncovers a synergy targeting the androgen receptor,Nat Chem Biol,2017.0,"10.1038/nchembio.7916"
-3,ALMANAC,28446463.0,The National Cancer Institute ALMANAC: A Comprehensive Screening Resource for the Detection of Anticancer Drug Pairs with Enhanced Therapeutic Activity,Cancer Re,2017.0,"doi: 10.1158/0008-5472"
-4,FORCINA,28601558.0,Systematic Quantification of Population Cell Death Kinetics in Mammalian Cells.,Cell Syst,2017.0,"10.1016/j.cels.2017.05.002"
+1,ONEIL,26983881.0,An Unbiased Oncology Compound Screen to Identify Novel Combination Strategies,Mol Cancer Ther,2016.0,"10.1158/1535-7163.MCT-15-0843
+"
+2,CLOUD,28530711.0,A combinatorial screen of the CLOUD uncovers a synergy targeting the androgen receptor,Nat Chem Biol,2017.0,"10.1038/nchembio.7916
+"
+3,ALMANAC,28446463.0,The National Cancer Institute ALMANAC: A Comprehensive Screening Resource for the Detection of Anticancer Drug Pairs with Enhanced Therapeutic Activity,Cancer Re,2017.0,"doi: 10.1158/0008-5472
+"
+4,FORCINA,28601558.0,Systematic Quantification of Population Cell Death Kinetics in Mammalian Cells.,Cell Syst,2017.0,"10.1016/j.cels.2017.05.002
+"
 5,NCATS_ATL,0.0,NA,NA,2012.0,NA
 6,MATHEWS,24469833.0,High-throughput combinatorial screening identifies drugs that cooperate with ibrutinib to kill activated B-cell-like diffuse large B-cell lymphoma cells.,Proceedings of the National Academy of Sciences of the United States of America,2014.0,10.1073/pnas.1311846111
 7,NCATS_DIPG,0.0,NA,NA,2018.0,NA
