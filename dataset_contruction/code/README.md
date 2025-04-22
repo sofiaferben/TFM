@@ -11,6 +11,7 @@ This folder contains Jupyter notebooks used in the construction and processing o
 | `1_drugcombdb.ipynb` | Notebook for loading and exploring the DrugCombDB dataset.   |
 | `2_drugcomb.ipynb`   | Notebook for loading and exploring the DrugComb dataset      |
 | `3_therapeutic_data_commons.ipynb`   | Notebook for loading and exploring the Therapeutic Data Commons dataset      |
+| `4_synergxdb.ipynb`   | Notebook for loading and exploring the SynergxDB dataset      |
 | `README.md`          | Overview of this folder.                                     |
 
 ---
