@@ -1,0 +1,10 @@
+idSource,name,no_samples,no_drugs,pmID,author,combo
+2,NCI-ALMANAC,60,101,28446463,Holbeck et al,3-by-3 or 5-by-3
+1,MERCK,39,38,26983881,O'Neil et al,4-by-4
+7,MIT-MELANOMA,36,108,26461489,Friedman et al,2-by-2
+10,VISAGE,34,2,31302152,Patterson et al,10-by-6
+9,DECREASE,13,33,,Ianevski et al,8-by-8
+5,YALE-TNBC,6,130,27872098,Wali et al,1-by-5
+4,YALE-PDAC,4,41,28292938,Langdon et al,3-by-3
+8,STANFORD,1,1818,28601558,Forcina et al,1-by-1
+6,CLOUD,1,55,28530711,Licciardello et al,1-by-1
