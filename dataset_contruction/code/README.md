@@ -12,6 +12,8 @@ This folder contains Jupyter notebooks used in the construction and processing o
 | `2_drugcomb.ipynb`   | Notebook for loading and exploring the DrugComb dataset      |
 | `3_therapeutic_data_commons.ipynb`   | Notebook for loading and exploring the Therapeutic Data Commons dataset      |
 | `4_synergxdb.ipynb`   | Notebook for loading and exploring the SynergxDB dataset      |
+| `5_cmaps.ipynb`   | Notebook for processing CMAP/L1000 data      |
+| `6_drugcomb_cmap.ipynb`   | Notebook for merging DrugComb & CMAP signatures     |
 | `README.md`          | Overview of this folder.                                     |
 
 ---
