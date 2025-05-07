@@ -14,6 +14,7 @@ This folder contains Jupyter notebooks used in the construction and processing o
 | `4_synergxdb.ipynb`   | Notebook for loading and exploring the SynergxDB dataset      |
 | `5_cmaps.ipynb`   | Notebook for processing CMAP/L1000 data      |
 | `6_drugcomb_cmap.ipynb`   | Notebook for merging DrugComb & CMAP signatures     |
+| `7_vae_data_preparation.ipynb`   | Notebook for preparing drug signature data to be fed into vae     |
 | `README.md`          | Overview of this folder.                                     |
 
 ---
