@@ -15,6 +15,7 @@ This folder contains Jupyter notebooks used in the construction and processing o
 | `5_cmaps.ipynb`   | Notebook for processing CMAP/L1000 data      |
 | `6_drugcomb_cmap.ipynb`   | Notebook for merging DrugComb & CMAP signatures     |
 | `7_vae_data_preparation.ipynb`   | Notebook for preparing drug signature data to be fed into vae     |
+| `8_VAE_model.ipynb`   | Notebook for creating the vae model and the final drug signature features    |
 | `README.md`          | Overview of this folder.                                     |
 
 ---
