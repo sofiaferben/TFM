@@ -2,7 +2,7 @@
 
 This folder contains all the Jupyter notebooks used to train and evaluate models for drug synergy prediction across different synergy scoring strategies.
 
-## 🔄 Structure and Purpose
+##  Structure and Purpose
 
 Each notebook corresponds to a specific **training strategy**, trained with a specific ** HSA synergy score** (all the possible types are HSA, ZIP, Bliss, Loewe). All notebooks are designed to be run independently and follow a consistent structure, allowing for easy comparison of modeling results across scoring approaches.
 
